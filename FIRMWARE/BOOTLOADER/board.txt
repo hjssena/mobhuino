@@ -1,0 +1,20 @@
+Encontra-se em: arduino-1.0.6\hardware\arduino
+Adicionar o hex atmega328p_4k_16000000.hex em ...arduino-1.0.6\hardware\arduino\bootloaders\usnoobie
+
+##############################################################
+usnoobie3.name=Mobhuino atmega328 (USBaspLoader ATmega328 at 16MHz)
+usnoobie3.upload.protocol=usbasp
+usnoobie3.upload.maximum_size=28672
+usnoobie3.upload.speed=115200
+usnoobie3.upload.disable_flushing=true
+usnoobie3.bootloader.low_fuses=0xFF
+usnoobie3.bootloader.high_fuses=0xD8
+usnoobie3.bootloader.extended_fuses=0x07
+usnoobie3.bootloader.path=usnoobie
+usnoobie3.bootloader.file=atmega328p_4k_16000000.hex
+usnoobie3.bootloader.unlock_bits=0x3F
+usnoobie3.bootloader.lock_bits=0x0F
+usnoobie3.build.mcu=atmega328p
+usnoobie3.build.f_cpu=16000000L
+usnoobie3.build.core=arduino
+usnoobie3.build.variant=standard
