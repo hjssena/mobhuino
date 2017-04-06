@@ -16415,7 +16415,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <text x="150.43" y="6.77" size="2.1844" layer="94">www.devidaasuaideia.com.br</text>
 <text x="239.32" y="6.67" size="2.54" layer="94">3.1v</text>
 <text x="207.21" y="29.34" size="1.9304" layer="94">Criado: 26/09/2015</text>
-<text x="207.21" y="24.26" size="1.9304" layer="94">Atualizado: 26/10/2016</text>
+<text x="207.21" y="24.26" size="1.9304" layer="94">Atualizado: 06/04/2017</text>
 <wire x1="248.92" y1="35.56" x2="129.54" y2="35.56" width="0.4064" layer="94"/>
 <wire x1="129.54" y1="35.56" x2="73.66" y2="35.56" width="0.4064" layer="94"/>
 <wire x1="73.66" y1="35.56" x2="0" y2="35.56" width="0.4064" layer="94"/>
